@@ -1,2 +1,6 @@
 hoc git chan qua~~
+<<<<<<< HEAD
 hai~~
+=======
+lai change
+>>>>>>> 084b95b16dd16e3845d14841d925e3a82cdab2fa
